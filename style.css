@@ -15,6 +15,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  background-color: #111111;
   background-image: url("https://xatimg.com/image/KRlr9uxSoXRZ.gif"), #111111 ;
   -webkit-perspective: 1000px;
           perspective: 1000px;
