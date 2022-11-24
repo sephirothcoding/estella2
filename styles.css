@@ -17,13 +17,17 @@ left: 50%;
 }
 
 
+
+
+
 .vectro {
   position: relative;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 0.1px #f1f1f1;
   font-family: 'Righteous', cursive;
   font-size: 160px;
-  margin: 150px 0 50px 0;
+  text-align: center; 
+  margin: 50px 0 50px 0;
 }
 
 .vectro:after {
