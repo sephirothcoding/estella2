@@ -1,5 +1,8 @@
-// Author: Hoang Tran (https://www.facebook.com/profile.php?id=100004848287494)
-// Github verson (1 file .html): https://github.com/HoangTran0410/3DCarousel/blob/master/index.html
+if ( navigator.platform.indexOf('Win') != -1 ) {
+  window.document.getElementById("wrapper").setAttribute("class", "windows");
+} else if ( navigator.platform.indexOf('Mac') != -1 ) {
+  window.document.getElementById("wrapper").setAttribute("class", "mac");
+}
 
 
 // You can change global variables here:
